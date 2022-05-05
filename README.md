@@ -1,2 +1,2 @@
 # SmartPlug-May2022
-Script to turn Wyze plugs off/on using Wyze_SDK
+Python script to turn Wyze plugs off/on using Wyze_SDK
