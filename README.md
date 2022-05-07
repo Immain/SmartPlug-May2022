@@ -2,7 +2,7 @@
 # SmartPlug-May2022
 Python script to turn Wyze plugs off/on using Wyze_SDK
 
-**The Python Wyze SDK allows interaction with:
+**The Python Wyze SDK allows interaction with:**
 
 wyze_sdk.client.bulbs: for controlling Wyze Bulb and Wyze Bulb Color
 wyze_sdk.client.entry_sensors: for interacting with Wyze Entry Sensor
